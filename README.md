@@ -1,0 +1,2 @@
+# Taniqs
+Scrip termux
