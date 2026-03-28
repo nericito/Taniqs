@@ -28,7 +28,7 @@
     2. pkg install curl
     3. pkg install python3
     4. pkg install git
-    5. git clone https://github.com/R4GN4R0K-SEC/C2-DDoS-BotNet-Saturn
+    5. git clone https://github.com/nericito/Nericito18
     6. cd C2
     7. pip3 install -r requirements.txt
     8. python3 c2.py
@@ -40,7 +40,7 @@
     3. sudo apt install python3-pip
     4. sudo apt install curl
     5. sudo apt install git
-    6. git clone https://github.com/R4GN4R0K-SEC/C2-DDoS-BotNet-Saturn
+    6. git clone https://github.com/nericito/Nericito18
     7. cd C2
     8. pip3 install -r requirements.txt
     9. python3 c2.py
@@ -52,7 +52,7 @@
     3. apt install python3
     4. apt install python3-pip
     5. apt install git
-    6. git clone https://github.com/R4GN4R0K-SEC/C2-DDoS-BotNet-Saturn
+    6. git clone https://github.com/nericito/Nericito18
     7. cd C2
     8. pip3 install -r requirements.txt
     9. python3 c2.py
